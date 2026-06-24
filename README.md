@@ -1,6 +1,8 @@
 # Universal-Aimlock
 Universal Aimlock Script made in Lua for Roblox
 
+##Loadstring: loadstring(game:HttpGet("https://raw.githubusercontent.com/yetzq7/Universal-Aimlock/refs/heads/main/main.lua"))()
+
 ```
 local UIS = game:GetService("UserInputService")
 local Players = game:GetService("Players")
