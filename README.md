@@ -1,7 +1,8 @@
 # Universal-Aimlock
 Universal Aimlock Script made in Lua for Roblox
 
-```local UIS = game:GetService("UserInputService")
+```
+local UIS = game:GetService("UserInputService")
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 
